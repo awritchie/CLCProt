@@ -1,0 +1,8 @@
+<Bindings>
+ <Binding name="Switch to Single-target Rotation" header="CLCPROT">
+   SetRotation(1)
+ </Binding>
+ <Binding name="Switch to Multi-target Rotation" header="CLCPROT">
+   SetRotation(2)
+ </Binding>
+</Bindings>

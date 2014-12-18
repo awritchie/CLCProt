@@ -1,0 +1,17 @@
+## Interface: 60000
+## Title: CLCProt
+## Notes: Protection FCFS helper
+## Author: Calcute of Ravencrest, Modified by Tarwth-Sargeras
+## SavedVariables: clcprotDB
+
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+clcprot.lua
+
+protmodule\index.xml
+rotation.lua
+
+sov.lua
